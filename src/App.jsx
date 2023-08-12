@@ -6,7 +6,7 @@ function App() {
 
   return (
     <>
-      <h1>This is a starting files</h1>
+      <h1>This is a frontend</h1>
     </>
   )
 }
